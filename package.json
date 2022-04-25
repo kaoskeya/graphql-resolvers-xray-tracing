@@ -50,7 +50,7 @@
     "@types/uuid": "^8.3.3",
     "aws-xray-sdk-core": "^3.2.0",
     "eslint": "^8.4.0",
-    "graphql": "^15.7.2",
+    "graphql": "^16.4.0",
     "jest": "^27.4.3",
     "jest-circus": "^27.4.2",
     "nock": "^13.0.5",
@@ -71,6 +71,6 @@
   },
   "peerDependencies": {
     "aws-xray-sdk-core": "^3.0.0",
-    "graphql": "^15.7.2"
+    "graphql": "^16.4.0"
   }
 }
